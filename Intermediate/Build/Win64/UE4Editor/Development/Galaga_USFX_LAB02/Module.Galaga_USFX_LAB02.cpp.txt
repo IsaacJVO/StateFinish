@@ -1,0 +1,103 @@
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/AComponenteInvisible.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\AComponenteInvisible.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\AComponenteInvisible.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/BolitaAdapter.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\BolitaAdapter.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\BolitaAdapter.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/BuilderNaveEscudo.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\BuilderNaveEscudo.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\BuilderNaveNodriza.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NODRIZA.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ConstructorNave.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ConstructorNave.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NODRIZA.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\BuilderNaveNodriza.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\BuilderNaveEscudo.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\HijasNodriza.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\AComponenteMovimiento.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\AComponenteMovimiento.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\HijasNodriza.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\MotorNaveNodriza.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\MotorNaveNodriza.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\EscudoNodriza.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\EscudoNodriza.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/BuilderNaveNodriza.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/CAInvisible.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\CAInvisible.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\CAInvisible.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/ConstructorNave.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/Director.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Director.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Director.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/EscudoNodriza.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/Galaga_USFX_LAB02.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/HijasNodriza.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ProyectilNodriza.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ProyectilNodriza.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/ISubscriptor.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ISubscriptor.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ISubscriptor.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/MotorNaveNodriza.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ProyectilPrueba.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ProyectilPrueba.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEenmigaMadre.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEenmigaMadre.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEenmigaMadre.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEenmigaMadreGGis.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEenmigaMadreGGis.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEenmigaMadreGGis.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaCaza.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaCaza.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemiga.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemiga.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaCaza.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaEspia.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaEspia.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaEspia.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaFactory.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaFactory.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaFactory.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaTransporte.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaTransporte.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaRalentizadora.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaRalentizadora.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaUwU.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaUwU.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaHacker.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaHacker.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaHacker.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaNODRIZA.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaNODRIZA.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaNODRIZA.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaTitan.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEnemigaTitan.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEnemigaTitan.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaTransporte.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveEnemigaUwU.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NaveMadreInter.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveMadreInter.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveMadreInter.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/NODRIZA.cpp
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/PowerUp.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\PowerUp.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\PowerUp.generated.h
+M:/UNIVERSIDAD/GALAGA/Galaga_USFX_LAB02/Source/Galaga_USFX_LAB02/PowerUpVelocidad.cpp
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\PowerUpVelocidad.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\PowerUpVelocidad.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.generated.h

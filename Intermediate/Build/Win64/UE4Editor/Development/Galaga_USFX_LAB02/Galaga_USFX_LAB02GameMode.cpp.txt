@@ -1,0 +1,23 @@
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_LAB02\Definitions.Galaga_USFX_LAB02.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02GameMode.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Galaga_USFX_LAB02Pawn.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Reloj.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Reloj.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\Publicador.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\ISubscriptor.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\ISubscriptor.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\Publicador.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\TorreEifel.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\TorreEifel.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\NaveEstado.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\INaveState.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\INaveState.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\NaveEstado.generated.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Source\Galaga_USFX_LAB02\FacadeNaves.h
+M:\UNIVERSIDAD\GALAGA\Galaga_USFX_LAB02\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB02\FacadeNaves.generated.h
